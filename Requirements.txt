@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+pypdf
+sentence-transformers
+faiss-cpu
+numpy
+streamlit
+requests
+docx2txt
+PyPDF2
